@@ -1,0 +1,40 @@
+_repo: Colonial-Born--A-Tale-of-the-Queensland-bush_25750
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Spence, Percy F. S. (Percy Frederick Seaton)
+    birthdate: 1868
+    deathdate: 1933
+    gutenberg_agent_id: '31548'
+    url: http://www.gutenberg.org/2009/agents/31548
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, G. Firth
+    aliases:
+    - Scott, Firth
+    - Scott, George Henry Firth
+    deathdate: 1935
+    gutenberg_agent_id: '31549'
+    url: http://www.gutenberg.org/2009/agents/31549
+description: 'George Firth Scott was the author of: The Track of Midnight (1897),
+  The Last Lemurian: A Westralian Romance (1898), From Franklin to Nansen (1899),
+  Colonial Born: A Tale of the Queensland Bush (1900), The Romance of Polar Exploration
+  (1906), The Romance of Australian Exploring (1910), The Rider of Waroona (1912)
+  and Daring Deeds of Polar Explorers (1921).'
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2008-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Australia -- Fiction'
+title: 'Colonial Born: A Tale of the Queensland bush'
+url: http://www.gutenberg.org/ebooks/25750
